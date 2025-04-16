@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icons/square.png</file>
+        <file>icons/circle.png</file>
+        <file>icons/rectangle.png</file>
+        <file>icons/ellipse.png</file>
+        <file>icons/rhombus.png</file>
+        <file>icons/triangle.png</file>
+        <file>icons/hexagon.png</file>
+        <file>icons/fivestar.png</file>
+        <file>icons/sixstar.png</file>
+        <file>icons/eightstar.png</file>
+    </qresource>
+</RCC>

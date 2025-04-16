@@ -1,0 +1,25 @@
+# ninja log v6
+4	1326	1744757878102170486	CMakeFiles/Task_1.dir/Task_1/quickSort.cpp.o	d3c0226d27a3e2a0
+6	1285	1744757878104170486	CMakeFiles/Task_1.dir/Task_1/binpow.cpp.o	caccd43a263cf5f7
+5	1287	1744757878103170486	CMakeFiles/Task_1.dir/Task_1/binSearch.cpp.o	29fd6d202e2b6354
+1	109	1744740843913899606	CMakeFiles/LR4.dir/Task_1/quickSort.cpp.o	eaf94d47db7e803f
+1551	1602	1744759034941173299	Task_1	66848e1a776d287c
+222	258	1744741195911565149	LR4	4bb13863296d958
+5	1348	1744759033395178021	CMakeFiles/Task_1.dir/Task_1_2/binSearch.cpp.o	9193ef2fa5920397
+665	719	1744759855266960667	Task_3	cc2fcfd8f0bf8efe
+5	1424	1744759033395178021	CMakeFiles/Task_1.dir/Task_1_2/mergeSort.cpp.o	464348f338348334
+5	1551	1744759033395178021	CMakeFiles/Task_1.dir/Task_1_2/interpolationSort.cpp.o	ad731220b38dbd01
+6	1415	1744759033396178018	CMakeFiles/Task_1.dir/Task_1_2/speed.cpp.o	69381dec5ac9f2aa
+3	1433	1744759033393178028	CMakeFiles/Task_1.dir/Task_1_2/main.cpp.o	9b38607719b2abf4
+4	1310	1744757878102170486	CMakeFiles/Task_1.dir/Task_1/heapSort.cpp.o	f8adbd90034edcc4
+2	665	1744759854603961031	CMakeFiles/Task_3.dir/Task_3/main.cpp.o	85b8bd36e6d152dd
+2	1249	1744757986099178109	CMakeFiles/Task_1.dir/Task_1/main.cpp.o	4b5d28c293197bc0
+2	39	1744764957601582945	build.ninja	282a442861fc157
+6	1438	1744757878104170486	CMakeFiles/Task_1.dir/Task_1/interpolationSort.cpp.o	7562e827243f178b
+5	1317	1744757878103170486	CMakeFiles/Task_1.dir/Task_1/mergeSort.cpp.o	6172ad3788c8a8fc
+4	1523	1744759033394178024	CMakeFiles/Task_1.dir/Task_1_2/heapSort.cpp.o	a3785e8eec5e5522
+6	1317	1744757878104170486	CMakeFiles/Task_1.dir/Task_1/speed.cpp.o	8c5394b5b10f8ffd
+1	222	1744741195690563127	CMakeFiles/LR4.dir/Task_1/main.cpp.o	905262ae148bc584
+6	1324	1744759033396178018	CMakeFiles/Task_1.dir/Task_1_2/binpow.cpp.o	a4f0662316dcfc4c
+1	423	1744759737545034526	CMakeFiles/Task_3.dir/Task_3/sort.cpp.o	1e22e22af7f69c1
+4	1403	1744759033394178024	CMakeFiles/Task_1.dir/Task_1_2/quickSort.cpp.o	9bc1475b4fff0a38

@@ -1,0 +1,6 @@
+/home/anastacia/Documents/OAuP/LR3/cmake-build-debug/CMakeFiles/Task_1.dir
+/home/anastacia/Documents/OAuP/LR3/cmake-build-debug/CMakeFiles/Task_2.dir
+/home/anastacia/Documents/OAuP/LR3/cmake-build-debug/CMakeFiles/Task_3.dir
+/home/anastacia/Documents/OAuP/LR3/cmake-build-debug/CMakeFiles/Task_4.dir
+/home/anastacia/Documents/OAuP/LR3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anastacia/Documents/OAuP/LR3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

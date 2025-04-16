@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "/home/anastacia/Documents/OAuP/LR1/Task_2/build/Desktop-Debug/Task_2_autogen",
+	"CMAKE_BINARY_DIR" : "/home/anastacia/Documents/OAuP/LR1/Task_2/build/Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/anastacia/Documents/OAuP/LR1/Task_2/build/Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/anastacia/Documents/OAuP/LR1/Task_2",
+	"CMAKE_SOURCE_DIR" : "/home/anastacia/Documents/OAuP/LR1/Task_2",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/anastacia/Documents/OAuP/LR1/Task_2/build/Desktop-Debug/Task_2_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/anastacia/Documents/OAuP/LR1/Task_2/icons/sixstar.png",
+		"/home/anastacia/Documents/OAuP/LR1/Task_2/icons/fivestar.png",
+		"/home/anastacia/Documents/OAuP/LR1/Task_2/icons/triangle.png",
+		"/home/anastacia/Documents/OAuP/LR1/Task_2/icons/square.png",
+		"/home/anastacia/Documents/OAuP/LR1/Task_2/icons/eightstar.png",
+		"/home/anastacia/Documents/OAuP/LR1/Task_2/icons/circle.png",
+		"/home/anastacia/Documents/OAuP/LR1/Task_2/icons/ellipse.png",
+		"/home/anastacia/Documents/OAuP/LR1/Task_2/icons/rhombus.png",
+		"/home/anastacia/Documents/OAuP/LR1/Task_2/icons/rectangle.png",
+		"/home/anastacia/Documents/OAuP/LR1/Task_2/icons/hexagon.png"
+	],
+	"LOCK_FILE" : "/home/anastacia/Documents/OAuP/LR1/Task_2/build/Desktop-Debug/CMakeFiles/Task_2_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/anastacia/Documents/OAuP/LR1/Task_2/build/Desktop-Debug/CMakeFiles/Task_2_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/anastacia/Documents/OAuP/LR1/Task_2/resource.qrc",
+	"VERBOSITY" : 0
+}
