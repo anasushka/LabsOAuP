@@ -1,0 +1,140 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b4bf6ed7fb715fc120fe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "MyStringLib",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-MyStringLib-Debug-789efe3a291e8657cabe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "MyStringLib",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Task_2",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "MyStringLib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "MyStringLib::@b06a59ccced9cdf3799e",
+					"jsonFile" : "target-MyStringLib-Debug-5262cb5e0b164b36e6fa.json",
+					"name" : "MyStringLib",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MyStringLib_autogen::@b06a59ccced9cdf3799e",
+					"jsonFile" : "target-MyStringLib_autogen-Debug-a7bdc108af4167077ed3.json",
+					"name" : "MyStringLib_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MyStringLib_autogen_timestamp_deps::@b06a59ccced9cdf3799e",
+					"jsonFile" : "target-MyStringLib_autogen_timestamp_deps-Debug-370d707ad611103031a6.json",
+					"name" : "MyStringLib_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_2-Debug-1ad8674955b157e31de2.json",
+					"name" : "Task_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task_2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_2_autogen-Debug-3775f1c9d94d486736d1.json",
+					"name" : "Task_2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task_2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_2_autogen_timestamp_deps-Debug-c9dc983955b74cfb508b.json",
+					"name" : "Task_2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/anastacia/Documents/OAuP/LR5/Task_2/build/Desktop-Debug",
+		"source" : "/home/anastacia/Documents/OAuP/LR5/Task_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

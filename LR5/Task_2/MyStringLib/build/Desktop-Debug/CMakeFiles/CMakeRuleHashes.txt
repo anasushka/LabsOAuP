@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+694d0ab96c88b2388debae32c982278f CMakeFiles/MyStringLib_autogen
+694d0ab96c88b2388debae32c982278f CMakeFiles/MyStringLib_autogen_timestamp_deps
+452325de86a838fa7616bb6b1fb38b72 MyStringLib_autogen/timestamp

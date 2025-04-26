@@ -1,0 +1,1 @@
+/usr/bin/clang++-18 -fPIC -DQT_QML_DEBUG -g -shared -Wl,-soname,libMyStringLib.so -o libMyStringLib.so CMakeFiles/MyStringLib.dir/MyStringLib_autogen/mocs_compilation.cpp.o CMakeFiles/MyStringLib.dir/mystringlib.cpp.o  /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2 
